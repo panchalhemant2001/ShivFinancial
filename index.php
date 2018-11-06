@@ -6,7 +6,6 @@
 	$headerimage="";
 	
 	include($layoutfile);
-
 ?>
 
 
